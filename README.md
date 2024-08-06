@@ -8,13 +8,13 @@ Fast-API-CRUD-App es una aplicación python que permite crear tu propia API en P
 Clona este repositorio en tu host.
 
 # bash
-Copiar código
-git clone https://github.com/AndresRojas0/Fast-API-CRUD-App
+Copiar código  
+git clone https://github.com/AndresRojas0/Fast-API-CRUD-App  
 Navega hasta el directorio del proyecto.
 
 # bash
-Copiar código
-cd mi-pagina-de-inicio
+Copiar código  
+cd mi-pagina-de-inicio  
 Ejecuta el archivo main.py
 
 # Despliegue
