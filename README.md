@@ -20,13 +20,12 @@ Ejecuta el archivo main.py
 # Despliegue
 El proyecto no está desplegado.
 
-
-
 # Funcionalidades
 * Crear, modificar o eliminar registros (CRUD).
 * Acceder a los endpoints API.
 
 # Tecnologías Utilizadas
+[![Languages](https://skillicons.dev/icons?i=python,fastapi)](https://skillicons.dev)
 * FastAPI
 * Uvicorn
 * Pydantic
